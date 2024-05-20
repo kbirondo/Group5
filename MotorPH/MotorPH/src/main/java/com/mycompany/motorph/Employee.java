@@ -6,7 +6,7 @@ package com.mycompany.motorph;
 
 /**
  *
- * @author Ortega
+ * @author Birondo
  */
 public class Employee {
 
