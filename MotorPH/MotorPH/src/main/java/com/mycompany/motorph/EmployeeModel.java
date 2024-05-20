@@ -6,7 +6,7 @@ package com.mycompany.motorph;
 
 /**
  *
- * @author Ortega A class that manually holds employee data and returns the list
+ * @author Birondo A class that manually holds employee data and returns the list
  * of employee thru getEmployeeModelList
  */
 public class EmployeeModel {
